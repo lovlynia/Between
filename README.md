@@ -26,6 +26,11 @@ Explore difficult text through four specialized modes:
 ### Context and Meaning
 Between distinguishes direct translation from contextual explanation. When multiple interpretations are plausible, it aims to explain the uncertainty rather than force a single answer.
 
+## Team & Contributions
+
+- **Cindy Nguyen & Wendy Wang-rui:** Drove the product vision, ideation, and UI/UX design, shaping Between's core concept and user experience.
+- **Stephanie Abundio & Kyle Liao :** Led technical implementation, including frontend development, application architecture, repository development, and AI integration. Focusing on AI prompting and Multi-agent systems using co-pilot assigning AI bots to specialized individual task as well as testing and validating the languages being translated. 
+
 ## Technology
 
 - React
